@@ -1,0 +1,63 @@
+
+ -- URL Count: 1 -- https://www.mobile.de
+UPDATE urls SET googleAnalitics = 'False' WHERE domain = '<200 https://www.mobile.de>' and date_id=1
+UPDATE urls SET anonymizeIP = 'False' WHERE domain = '<200 https://www.mobile.de>' and date_id=1
+UPDATE urls SET cookies = '' WHERE domain = '<200 https://www.mobile.de>' and date_id=1
+UPDATE urls SET Imprint = 'False' WHERE domain = 'https://www.mobile.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.mobile.de' and date_id=1
+
+ -- URL Count: 2 -- https://www.zdf.de
+UPDATE urls SET googleAnalitics = 'False' WHERE domain = '<200 https://www.zdf.de>' and date_id=1
+UPDATE urls SET anonymizeIP = 'False' WHERE domain = '<200 https://www.zdf.de>' and date_id=1
+UPDATE urls SET cookies = '' WHERE domain = '<200 https://www.zdf.de>' and date_id=1
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.zdf.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.zdf.de' and date_id=1
+
+ -- URL Count: 3 -- https://www.otto.de
+UPDATE urls SET googleAnalitics = 'False' WHERE domain = '<200 https://www.otto.de>' and date_id=1
+UPDATE urls SET anonymizeIP = 'False' WHERE domain = '<200 https://www.otto.de>' and date_id=1
+UPDATE urls SET cookies = 'BrowserId;devSpecs;visitorId;' WHERE domain = '<200 https://www.otto.de>' and date_id=1
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.otto.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.otto.de' and date_id=1
+
+ -- URL Count: 4 -- https://www.postbank.de
+UPDATE urls SET googleAnalitics = 'False' WHERE domain = '<200 https://www.postbank.de>' and date_id=1
+UPDATE urls SET anonymizeIP = 'False' WHERE domain = '<200 https://www.postbank.de>' and date_id=1
+UPDATE urls SET cookies = 'BrowserId;devSpecs;visitorId;wt3_eid;wt3_sid;wt_rla;wt_nbg_Q3;' WHERE domain = '<200 https://www.postbank.de>' and date_id=1
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.postbank.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.postbank.de' and date_id=1
+
+ -- URL Count: 5 -- https://www.dkb.de
+UPDATE urls SET googleAnalitics = 'False' WHERE domain = '<200 https://www.dkb.de>' and date_id=1
+UPDATE urls SET anonymizeIP = 'False' WHERE domain = '<200 https://www.dkb.de>' and date_id=1
+UPDATE urls SET cookies = 'TCPID;dtCookie;dtLatC;dtPC;dtSa;rxVisitor;rxvt;tCdebugLib;tc_cj_v2;wt3_eid;wt3_sid;wt_rla;tc_cj_v2;BrowserId;devSpecs;visitorId;wt3_eid;wt3_sid;wt_rla;wt_nbg_Q3;FDLBCTLY;wt_nbg_Q3;BRSINFO_browserPlugins;BRSINFO_env;BRSINFO_screen;DKBSESSID;DKB_SESS_TIMEOUT;SERVERID;dkxt;f5avraaaaaaaaaaaaaaaa_session_;javascript;' WHERE domain = '<200 https://www.dkb.de>' and date_id=1
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.dkb.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.dkb.de' and date_id=1
+
+ -- URL Count: 6 -- https://www.real.de
+UPDATE urls SET googleAnalitics = 'False' WHERE domain = '<200 https://www.real.de>' and date_id=1
+UPDATE urls SET anonymizeIP = 'False' WHERE domain = '<200 https://www.real.de>' and date_id=1
+UPDATE urls SET cookies = 'TCPID;dtCookie;dtLatC;dtPC;dtSa;rxVisitor;rxvt;tCdebugLib;tc_cj_v2;wt3_eid;wt3_sid;wt_rla;tc_cj_v2;BrowserId;devSpecs;visitorId;wt3_eid;wt3_sid;wt_rla;AB-optimizely-global-attributes;AB-optimizely__browser_name;AB-optimizely__device_type;AB-optimizely__environment;AB-optimizely__user_screen_width;AB-optimizely_user;real_screenWidthInPxs;tduid3;ALTSESSID;hm_tracking;wt_nbg_Q3;FDLBCTLY;wt_nbg_Q3;BRSINFO_browserPlugins;BRSINFO_env;BRSINFO_screen;DKBSESSID;DKB_SESS_TIMEOUT;SERVERID;dkxt;f5avraaaaaaaaaaaaaaaa_session_;javascript;lux_uid;' WHERE domain = '<200 https://www.real.de>' and date_id=1
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.real.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.real.de' and date_id=1
+
+ -- URL Count: 7 -- https://www.heise.de
+UPDATE urls SET googleAnalitics = 'False' WHERE domain = '<200 https://www.heise.de>' and date_id=1
+UPDATE urls SET anonymizeIP = 'False' WHERE domain = '<200 https://www.heise.de>' and date_id=1
+UPDATE urls SET cookies = 'TCPID;dtCookie;dtLatC;dtPC;dtSa;rxVisitor;rxvt;tCdebugLib;tc_cj_v2;wt3_eid;wt3_sid;wt_rla;consentUUID;iom_consent;i00;__cfduid;tc_cj_v2;BrowserId;devSpecs;visitorId;wt3_eid;wt3_sid;wt_rla;AB-optimizely-global-attributes;AB-optimizely__browser_name;AB-optimizely__device_type;AB-optimizely__environment;AB-optimizely__user_screen_width;AB-optimizely_user;real_screenWidthInPxs;tduid3;__cfduid;ALTSESSID;hm_tracking;wt_nbg_Q3;FDLBCTLY;wt_nbg_Q3;BRSINFO_browserPlugins;BRSINFO_env;BRSINFO_screen;DKBSESSID;DKB_SESS_TIMEOUT;SERVERID;dkxt;f5avraaaaaaaaaaaaaaaa_session_;javascript;_sp_v1_consent;_sp_v1_csv;_sp_v1_data;_sp_v1_lt;_sp_v1_opt;_sp_v1_ss;_sp_v1_uid;lux_uid;' WHERE domain = '<200 https://www.heise.de>' and date_id=1
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.heise.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.heise.de' and date_id=1
+
+ -- URL Count: 8 -- https://www.thomann.de
+UPDATE urls SET googleAnalitics = 'False' WHERE domain = '<200 https://www.thomann.de>' and date_id=1
+UPDATE urls SET anonymizeIP = 'False' WHERE domain = '<200 https://www.thomann.de>' and date_id=1
+UPDATE urls SET cookies = 'TCPID;dtCookie;dtLatC;dtPC;dtSa;rxVisitor;rxvt;tCdebugLib;tc_cj_v2;wt3_eid;wt3_sid;wt_rla;consentUUID;iom_consent;i00;__cfduid;tc_cj_v2;BrowserId;devSpecs;visitorId;wt3_eid;wt3_sid;wt_rla;AB-optimizely-global-attributes;AB-optimizely__browser_name;AB-optimizely__device_type;AB-optimizely__environment;AB-optimizely__user_screen_width;AB-optimizely_user;real_screenWidthInPxs;tduid3;__cfduid;ALTSESSID;hm_tracking;wt_nbg_Q3;FDLBCTLY;wt_nbg_Q3;BRSINFO_browserPlugins;BRSINFO_env;BRSINFO_screen;DKBSESSID;DKB_SESS_TIMEOUT;SERVERID;dkxt;f5avraaaaaaaaaaaaaaaa_session_;javascript;_sp_v1_consent;_sp_v1_csv;_sp_v1_data;_sp_v1_lt;_sp_v1_opt;_sp_v1_ss;_sp_v1_uid;lux_uid;sid;' WHERE domain = '<200 https://www.thomann.de>' and date_id=1
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.thomann.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.thomann.de' and date_id=1
+
+ -- URL Count: 9 -- https://www.chip.de
+UPDATE urls SET googleAnalitics = 'False' WHERE domain = '<200 https://www.chip.de>' and date_id=1
+UPDATE urls SET anonymizeIP = 'False' WHERE domain = '<200 https://www.chip.de>' and date_id=1
+UPDATE urls SET cookies = 'C;uid;uuid2;TDCPM;TDID;__cfduid;atbgdid;ad-id;ad-privacy;IDSYNC;c;tuuid;tuuid_lu;__cfduid;_auid;CMID;CMPRO;CMPS;CMRUM3;CMST;CMTEST;CXOid;OB-USER-TOKEN;consentUUID;gpv;ima_data_c6b6df0a9e1bcfd2478c65469eb2322efce6c7ea;ima_data_checksum_c6b6df0a9e1bcfd2478c65469eb2322efce6c7ea;ioam2018;s_cc;s_fid;s_hc;s_ht;s_ppv;s_tp;s_vi;V;TCPID;dtCookie;dtLatC;dtPC;dtSa;rxVisitor;rxvt;tCdebugLib;tc_cj_v2;wt3_eid;wt3_sid;wt_rla;DotomiTest;IDE;everest_g_v2;vst;consentUUID;iom_consent;i00;__cfduid;uuid;tc_cj_v2;i;pd;univ_id;BrowserId;devSpecs;visitorId;obuid;recs_89519eee74cd3e4374ed46aa44bbd09d;wt3_eid;wt3_sid;wt_rla;DPSync2;KADUSERCOOKIE;KRTBCOOKIE_107;KRTBCOOKIE_1074;KRTBCOOKIE_218;KRTBCOOKIE_22;KRTBCOOKIE_27;KRTBCOOKIE_377;KRTBCOOKIE_391;KRTBCOOKIE_57;KRTBCOOKIE_80;KRTBCOOKIE_904;KTPCACOOKIE;PUBMDCID;PugT;SPugT;SyncRTB2;chkSecSet;pi;mc;AB-optimizely-global-attributes;AB-optimizely__browser_name;AB-optimizely__device_type;AB-optimizely__environment;AB-optimizely__user_screen_width;AB-optimizely_user;real_screenWidthInPxs;tduid3;audit;khaos;UID;UIDR;SEUNCY;suid;suid_legacy;SCM;SCMaps;smxtrack;ANON_ID;ANON_ID_old;__cfduid;uid;__cfduid;matchpubmatic;wfivefivec;ALTSESSID;hm_tracking;A1;A1S;A3;B;GUC;AWSALB;AWSALBCORS;connect.sid;INGRESSCOOKIE;wt_nbg_Q3;referral;pux;FDLBCTLY;wt_nbg_Q3;_pbjs_userid_consent_data;_sp_v1_consent;_sp_v1_csv;_sp_v1_data;_sp_v1_lt;_sp_v1_opt;_sp_v1_ss;_sp_v1_uid;chip_session;BRSINFO_browserPlugins;BRSINFO_env;BRSINFO_screen;DKBSESSID;DKB_SESS_TIMEOUT;SERVERID;dkxt;f5avraaaaaaaaaaaaaaaa_session_;javascript;_sp_v1_consent;_sp_v1_csv;_sp_v1_data;_sp_v1_lt;_sp_v1_opt;_sp_v1_ss;_sp_v1_uid;lux_uid;sid;' WHERE domain = '<200 https://www.chip.de>' and date_id=1
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.chip.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.chip.de' and date_id=1

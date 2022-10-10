@@ -1,0 +1,68 @@
+
+ -- URL Count: 7 -- https://www.postbank.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.postbank.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.postbank.de' and date_id=1
+
+ -- URL Count: 1 -- https://www.chip.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.chip.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.chip.de' and date_id=1
+
+ -- URL Count: 2 -- https://www.dkb.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.dkb.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.dkb.de' and date_id=1
+
+ -- URL Count: 3 -- https://www.mobile.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.mobile.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.mobile.de' and date_id=1
+
+ -- URL Count: 4 -- https://www.zdf.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.zdf.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.zdf.de' and date_id=1
+
+ -- URL Count: 5 -- https://www.heise.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.heise.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.heise.de' and date_id=1
+
+ -- URL Count: 6 -- https://www.otto.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.otto.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.otto.de' and date_id=1
+
+ -- URL Count: 7 -- https://www.postbank.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.postbank.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.postbank.de' and date_id=1
+
+ -- URL Count: 2 -- https://www.mobile.de
+UPDATE urls SET Imprint = 'False' WHERE domain = 'https://www.mobile.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.mobile.de' and date_id=1
+
+ -- URL Count: 4 -- https://www.otto.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.otto.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.otto.de' and date_id=1
+
+ -- URL Count: 6 -- https://www.real.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.real.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.real.de' and date_id=1
+
+ -- URL Count: 8 -- https://www.dkb.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.dkb.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.dkb.de' and date_id=1
+
+ -- URL Count: 10 -- https://www.postbank.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.postbank.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.postbank.de' and date_id=1
+
+ -- URL Count: 12 -- https://www.zdf.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.zdf.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.zdf.de' and date_id=1
+
+ -- URL Count: 14 -- https://www.heise.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.heise.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.heise.de' and date_id=1
+
+ -- URL Count: 16 -- https://www.thomann.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.thomann.de' and date_id=1
+UPDATE urls SET Policy = 'True' WHERE domain = 'https://www.thomann.de' and date_id=1
+
+ -- URL Count: 18 -- https://www.chip.de
+UPDATE urls SET Imprint = 'True' WHERE domain = 'https://www.chip.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.chip.de' and date_id=1

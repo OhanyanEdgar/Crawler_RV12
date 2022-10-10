@@ -1,0 +1,12 @@
+
+
+ -- URL Count: 1 -- https://www.mobile.de
+ -- -- Cookies -- --
+UPDATE urls SET googleAnalitics = 'False' WHERE domain = '<200 https://www.mobile.de>' and date_id=1
+UPDATE urls SET anonymizeIP = 'False' WHERE domain = '<200 https://www.mobile.de>' and date_id=1
+UPDATE urls SET cookies = '' WHERE domain = '<200 https://www.mobile.de>' and date_id=1
+
+ -- URL Count: 1 -- https://www.mobile.de
+ -- -- Words -- --
+UPDATE urls SET Imprint = 'False' WHERE domain = 'https://www.mobile.de' and date_id=1
+UPDATE urls SET Policy = 'False' WHERE domain = 'https://www.mobile.de' and date_id=1
